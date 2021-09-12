@@ -8,6 +8,8 @@ import model.InfrastructureDeparment;
 
 public class Main {
 	
+	//@author: Juan Camilo Ramirez Tabares
+	
 	private final static int EXIT_OPTION = 5;
 	
 	private BufferedReader br;
