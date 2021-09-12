@@ -106,3 +106,4 @@ The dangerous billboard are:
 102. Billboard JF Company with area 2500.0 cm^2
 103. Billboard SIKADA with area 225.0 cm^2
 104. Billboard APOCRITO with area 361.0 cm^2
+105. Billboard JK&JF Asociados with area 700.0 cm^2

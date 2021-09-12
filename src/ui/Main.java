@@ -26,7 +26,10 @@ public class Main {
 		
 		System.out.println("|| WELCOME TO BILDBOARD DEPARMENT SYSTEM ||\n");
 		System.out.println("Please, choose the option that you want to do:");
-		System.out.println("( 1 ) Add a new billboard to the system \n( 2 ) Print current Billboards \n( 3 ) Generate a dangerous billboard report \n( 5 ) To exit");
+		System.out.println("( 1 ) Add a new billboard to the system \n"
+				+ "( 2 ) Print current Billboards \n"
+				+ "( 3 ) Generate a dangerous billboard report "
+				+ "\n( 5 ) To exit");
 		
 		do {
 			System.out.print("Option: ");
