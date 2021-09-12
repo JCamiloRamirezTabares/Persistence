@@ -21,6 +21,7 @@ public class InfrastructureDeparment {
 		br = new BufferedReader(new FileReader(BILDBOARD_FILE_NAME));
 		
 		String line = br.readLine();
+		line = br.readLine();
 		while(line != null) {
 			String parts[] = line.split(separatorCharacter);
 			
@@ -33,8 +34,10 @@ public class InfrastructureDeparment {
 		}
 		br.close();
 	}
-	
-	
+
+	public List<Bildboard> getList() {
+		return list;
+	}
 	
 	
 }
