@@ -1,0 +1,108 @@
+==============================
+= DANGEROUS BILLBOARD REPORT =
+==============================
+The dangerous billboard are:
+1. Billboard Auctor Quis Tristique Corp. with area 286500.0 cm^2
+2. Billboard Hendrerit Institute with area 219258.0 cm^2
+3. Billboard Risus Morbi LLC with area 168324.0 cm^2
+4. Billboard Ac Metus Incorporated with area 157738.0 cm^2
+5. Billboard Sociis Natoque Corporation with area 117900.0 cm^2
+6. Billboard Neque Industries with area 247396.0 cm^2
+7. Billboard Dui Fusce Aliquam Consulting with area 230364.0 cm^2
+8. Billboard In Ltd with area 104232.0 cm^2
+9. Billboard Orci Associates with area 192978.0 cm^2
+10. Billboard Sed Neque Sed Corp. with area 157140.0 cm^2
+11. Billboard Est Mollis Ltd with area 86360.0 cm^2
+12. Billboard Nonummy Ultricies Associates with area 354710.0 cm^2
+13. Billboard Commodo Tincidunt Nibh Associates with area 80808.0 cm^2
+14. Billboard Et Corporation with area 165754.0 cm^2
+15. Billboard Aenean Incorporated with area 98020.0 cm^2
+16. Billboard Mauris Consulting with area 137728.0 cm^2
+17. Billboard Arcu Vestibulum Foundation with area 405040.0 cm^2
+18. Billboard Tincidunt Corporation with area 79576.0 cm^2
+19. Billboard Libero At Incorporated with area 281781.0 cm^2
+20. Billboard Erat Eget Tincidunt PC with area 475116.0 cm^2
+21. Billboard A Aliquet Vel Consulting with area 211970.0 cm^2
+22. Billboard Suspendisse Company with area 90720.0 cm^2
+23. Billboard Nonummy Ac Associates with area 57069.0 cm^2
+24. Billboard Integer In Foundation with area 143787.0 cm^2
+25. Billboard Dui Semper Et Industries with area 265808.0 cm^2
+26. Billboard Iaculis Corp. with area 65107.0 cm^2
+27. Billboard Nec Tellus Nunc Consulting with area 435600.0 cm^2
+28. Billboard Rutrum Lorem LLP with area 458720.0 cm^2
+29. Billboard Sed Libero Proin LLC with area 222870.0 cm^2
+30. Billboard A Mi Fringilla PC with area 224676.0 cm^2
+31. Billboard Sed Est Nunc Ltd with area 239600.0 cm^2
+32. Billboard Mauris Ut Mi Institute with area 195674.0 cm^2
+33. Billboard Vel Corp. with area 60928.0 cm^2
+34. Billboard Commodo Limited with area 309312.0 cm^2
+35. Billboard Nulla Ante Iaculis Company with area 121912.0 cm^2
+36. Billboard Risus Donec Egestas Incorporated with area 84096.0 cm^2
+37. Billboard Enim Nec LLP with area 229052.0 cm^2
+38. Billboard Eu Foundation with area 346910.0 cm^2
+39. Billboard Libero Nec Ligula Limited with area 60551.0 cm^2
+40. Billboard Sagittis Inc. with area 176640.0 cm^2
+41. Billboard Sociis Ltd with area 157560.0 cm^2
+42. Billboard Consequat Dolor Vitae LLP with area 267280.0 cm^2
+43. Billboard Et Ultrices Foundation with area 195300.0 cm^2
+44. Billboard Leo Institute with area 129000.0 cm^2
+45. Billboard Vivamus Consulting with area 313992.0 cm^2
+46. Billboard Lacus Limited with area 459525.0 cm^2
+47. Billboard Augue Ac Ipsum LLP with area 313337.0 cm^2
+48. Billboard Dolor Dapibus Gravida Incorporated with area 366475.0 cm^2
+49. Billboard Amet Risus Donec Corporation with area 120120.0 cm^2
+50. Billboard Vestibulum Mauris PC with area 467337.0 cm^2
+51. Billboard Nulla Eget Metus Consulting with area 468600.0 cm^2
+52. Billboard Varius Nam Ltd with area 158746.0 cm^2
+53. Billboard Blandit Enim Consequat Consulting with area 200220.0 cm^2
+54. Billboard Sed Pharetra LLP with area 99932.0 cm^2
+55. Billboard Egestas LLC with area 267132.0 cm^2
+56. Billboard Amet Consectetuer Foundation with area 97440.0 cm^2
+57. Billboard Vehicula Aliquet Libero Foundation with area 197100.0 cm^2
+58. Billboard Nam Nulla Magna Ltd with area 206112.0 cm^2
+59. Billboard Sagittis PC with area 135408.0 cm^2
+60. Billboard Mauris Ut Consulting with area 408918.0 cm^2
+61. Billboard Eu Foundation with area 70378.0 cm^2
+62. Billboard Tincidunt Congue Turpis Consulting with area 166782.0 cm^2
+63. Billboard Malesuada Institute with area 440112.0 cm^2
+64. Billboard Sagittis Placerat Institute with area 175763.0 cm^2
+65. Billboard Vivamus LLC with area 233280.0 cm^2
+66. Billboard Tellus Lorem Foundation with area 140880.0 cm^2
+67. Billboard Tellus Institute with area 317186.0 cm^2
+68. Billboard Luctus Sit Foundation with area 555807.0 cm^2
+69. Billboard Gravida Limited with area 208500.0 cm^2
+70. Billboard Vulputate Lacus Cras Inc. with area 419120.0 cm^2
+71. Billboard Nunc Corp. with area 161772.0 cm^2
+72. Billboard Eros Nam LLC with area 124944.0 cm^2
+73. Billboard Accumsan Neque Et Industries with area 219791.0 cm^2
+74. Billboard Ornare Tortor At Corp. with area 325984.0 cm^2
+75. Billboard Nec Urna Consulting with area 374292.0 cm^2
+76. Billboard Arcu Eu LLC with area 241103.0 cm^2
+77. Billboard Tincidunt Incorporated with area 162048.0 cm^2
+78. Billboard Aliquet Sem Ut Foundation with area 116850.0 cm^2
+79. Billboard Facilisi Sed Consulting with area 67524.0 cm^2
+80. Billboard Lobortis Tellus Incorporated with area 210680.0 cm^2
+81. Billboard Ut Consulting with area 474328.0 cm^2
+82. Billboard Donec Institute with area 390903.0 cm^2
+83. Billboard Mattis Corporation with area 345345.0 cm^2
+84. Billboard Consectetuer Corporation with area 204240.0 cm^2
+85. Billboard Sed Hendrerit LLC with area 235415.0 cm^2
+86. Billboard A Aliquet Vel Associates with area 145715.0 cm^2
+87. Billboard Turpis In PC with area 118989.0 cm^2
+88. Billboard Leo Morbi Neque Inc. with area 133350.0 cm^2
+89. Billboard Nunc Sed Libero Foundation with area 395120.0 cm^2
+90. Billboard Cursus Diam Corp. with area 107484.0 cm^2
+91. Billboard Dapibus LLP with area 465105.0 cm^2
+92. Billboard Sapien Imperdiet Ornare Inc. with area 93026.0 cm^2
+93. Billboard Feugiat Tellus Lorem Institute with area 96460.0 cm^2
+94. Billboard Lorem Ipsum PC with area 62348.0 cm^2
+95. Billboard Metus Eu Corp. with area 83435.0 cm^2
+96. Billboard Lacus Nulla Corp. with area 61710.0 cm^2
+97. Billboard Gravida Praesent LLC with area 359047.0 cm^2
+98. Billboard Sagittis Semper Nam Ltd with area 379760.0 cm^2
+99. Billboard Curabitur Dictum Phasellus Associates with area 159099.0 cm^2
+100. Billboard Eu Nibh Limited with area 256095.0 cm^2
+101. Billboard JK with area 441.0 cm^2
+102. Billboard JF Company with area 2500.0 cm^2
+103. Billboard SIKADA with area 225.0 cm^2
+104. Billboard APOCRITO with area 361.0 cm^2

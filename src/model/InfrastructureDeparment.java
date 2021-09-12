@@ -1,16 +1,23 @@
 package model;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
 public class InfrastructureDeparment {
 
-	private String BILDBOARD_FILE_NAME = "data/BillboardDataExported.csv";
+	private final String BILDBOARD_FILE_NAME = "data/BillboardDataExported.csv";
+	private final String REPORT_PATH = "data/report.txt";
+	private final String SAVE_PATH = "data/java.bytecode";
+	
 	private String separatorCharacter = "\\|";
+	
 	private List<Bildboard> list;
 	
 	//BufferReader
@@ -53,12 +60,44 @@ public class InfrastructureDeparment {
 		fw.close();
 		
 		if(list.add(newBillboard)) {
+			saveBillboards();
 			return true;
 		} else {
 			return false;
 		}
 		
 		
+	}
+	
+	public String generateDangerousReport() {
+		String report = "==============================\n= DANGEROUS BILLBOARD REPORT =\n==============================\nThe dangerous billboard are:\n";
+		int number = 1;
+		
+		for(int i = 0; i < list.size(); i++) {
+			if(list.get(i).calculateArea() >= 160) {
+				report += number + ". Billboard " + list.get(i).getBrand() + " with area " + list.get(i).calculateArea() + " cm^2\n";
+				number++;
+			}
+		}
+		
+		
+		return report;
+	}
+	
+	public String exportDangerousBillboardReport() throws IOException {
+		FileWriter fw = new FileWriter(REPORT_PATH, false);
+		String report = generateDangerousReport();
+		fw.write(report);
+		fw.close();
+		
+		return report;
+		
+	}
+	
+	public void saveBillboards() throws FileNotFoundException, IOException {
+		ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(SAVE_PATH));
+		oos.writeObject(list);
+		oos.close();
 	}
 
 }

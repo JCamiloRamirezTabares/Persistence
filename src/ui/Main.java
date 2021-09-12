@@ -25,8 +25,8 @@ public class Main {
 		String line = "";
 		
 		System.out.println("|| WELCOME TO BILDBOARD DEPARMENT SYSTEM ||\n");
-		System.out.println("Please, choose the option that you wanna do:");
-		System.out.println("( 1 ) Allows add a new Billdboard at the System \n( 2 ) Print the current Billboards \n( 5 ) To exit");
+		System.out.println("Please, choose the option that you want to do:");
+		System.out.println("( 1 ) Add a new billboard to the system \n( 2 ) Print current Billboards \n( 3 ) Generate a dangerous billboard report \n( 5 ) To exit");
 		
 		do {
 			System.out.print("Option: ");
@@ -40,9 +40,12 @@ public class Main {
 			case 2:
 				app.printBildboards();
 				break;
+			case 3:
+				app.printReport();
+				break;
 			case 5:
 				System.out.println("Bye :3, I will see you later");
-
+				break;
 			}
 			
 		}while(option != EXIT_OPTION);
@@ -82,7 +85,7 @@ public class Main {
 		String brand = br.readLine();
 		
 		double weight = Double.parseDouble(w);
-		double height = Double.parseDouble(w);
+		double height = Double.parseDouble(h);
 		boolean inUse = Boolean.parseBoolean(use);
 		
 		if(deparment.addBillboard(weight, height, inUse, brand)) {
@@ -92,4 +95,10 @@ public class Main {
 		}
 		
 	}
+	
+	public void printReport() throws IOException {
+		System.out.println(deparment.exportDangerousBillboardReport());
+	}
+	
+	
 }
